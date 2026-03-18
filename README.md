@@ -1,5 +1,7 @@
 # 어흐랭
 
+![](./image.png)
+
 오늘도 Slop을 만들었다. GPU야 미안해.
 
 이 영광을 아버지 [엄랭](https://github.com/rycont/umjunsik-lang)과 형 [혀엉...](https://gist.github.com/xnuk/d9f883ede568d97caa158255e4b4d069)에게 바칩니다.
