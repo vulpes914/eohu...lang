@@ -4,7 +4,7 @@
 
 이 영광을 아버지 [엄랭](https://github.com/rycont/umjunsik-lang)과 형 [혀엉...](https://gist.github.com/xnuk/d9f883ede568d97caa158255e4b4d069)에게 바칩니다.
 
-[사용해보기](https://vulpes914.github.io/eohulang/)
+[사용해보기](https://vulpes914.github.io/eohu...lang/)
 
 ## 여기 있는 것
 
